@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Textfield</string>
+    <string-array name="country_names">
+
+        <item>Paris-France</item>
+        <item>Los Angeles-USA</item>
+        <item>Zagreb-Croatia</item>
+        <item>Casablanca-Morocco</item>
+        <item>London-UK</item>
+    </string-array>
+</resources>
